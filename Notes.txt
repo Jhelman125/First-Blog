@@ -1,0 +1,4 @@
+myvenv\Scripts\activate
+python manage.py runserver
+if in user\Jan\cd ..\.. to get to djangogirls from C:\Users\Jan
+C:\>cd djangogirls 
